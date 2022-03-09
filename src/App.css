@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.container-books{
+  margin: 0 70px;
+}
+
+.booklists{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-img{
+  height: 300px;
+}
+
+.input-book{
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px !important;
+}
+
+.wishlist-container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
